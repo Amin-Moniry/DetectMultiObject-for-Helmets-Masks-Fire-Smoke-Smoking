@@ -1,4 +1,4 @@
-# 🛡️ P8GP-G01: Advanced Object Detection System with GUI
+# 🛡️ P8GP-G01: Advanced Object Detection System 
 
 <div align="center">
 

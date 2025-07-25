@@ -1,0 +1,22 @@
+# Project Dependencies for P8GP-G01
+# Compatible with Python 3.12.4
+
+# Image Processing and Machine Learning Libraries
+torch==2.3.1       # PyTorch for model inference
+opencv-python== 4.11.0.86   # OpenCV for image and video processing
+numpy==1.26.4           # NumPy for numerical operations
+ultralytics==8.2.82     # Ultralytics YOLO for object detection
+
+# GUI Framework
+PyQt6==6.7.0            # PyQt6 for graphical user interface (latest stable as of March 2025)
+
+# Camera Detection Library
+pygrabber==0.2          # pygrabber for full camera name detection on Windows (DirectShow support)
+
+# Note: The following are built-in Python modules and do not require installation:
+# - platform
+# - os
+# - subprocess
+# - sys
+# - time
+# - cv2 (provided by opencv-python)

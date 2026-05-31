@@ -1,13 +1,15 @@
-# P8GP-G01: Advanced Object Detection System
-
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=40&duration=2500&pause=600&color=1A73E8&center=true&vCenter=true&width=700&lines=P8GP-G01" alt="P8GP-G01" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=444444&center=true&vCenter=true&width=700&lines=Advanced+Object+Detection+System;Real-Time+AI+Safety+Monitoring;Smart+%7C+Fast+%7C+Reliable" alt="Subtitle" />
+
+<br>
 
 ![Version](https://img.shields.io/badge/version-2.1-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10+-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-Non--Commercial-red.svg)
-
-*A real-time safety monitoring system powered by AI and deep learning*
 
 </div>
 

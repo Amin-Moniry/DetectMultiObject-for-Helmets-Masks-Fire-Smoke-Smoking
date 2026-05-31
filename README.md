@@ -264,7 +264,7 @@ P8GP_G01/
 | <sub>Role</sub> | <sub>Name</sub> |
 |:---------------:|:---------------:|
 | <sub>Lead Developer & UI Designer</sub> | <sub>**Amin Moniry** (AminTivanix2)</sub> |
-| <sub>Project Supervisor & Technical Advisor</sub> | <sub>**Saeed Shokraneh**</sub> |
+| <sub>Project Supervisor & Technical Advisor</sub> | <sub>**Saeed Ssh**</sub> |
 
 </small>
 

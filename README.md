@@ -352,6 +352,6 @@ This project is protected under a **Non-Commercial License**.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0a0a,50:3d1a00,100:0d0a0a&height=160&section=footer&text=Built%20with%20intelligence%20%E2%80%94%20AminTivanix2&fontSize=26&fontAlign=50&fontAlignY=55&fontColor=FF6B2B&animation=fadeIn&stroke=FF6B2B&strokeWidth=0.5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0a0a,100:1a0a00&height=100&section=footer&text=Real-Time%20Safety%20AI%20%E2%80%94%20AminTivanix2%20%C2%B7%202026&fontSize=22&fontAlign=50&fontAlignY=55&fontColor=FF6B2B&animation=fadeIn" width="100%"/>
 
 </div>
